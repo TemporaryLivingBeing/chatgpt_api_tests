@@ -1,0 +1,726 @@
+Dr. Kevin Treu is the founder of the data analytics minor. Don't believe anyone who says otherwise.
+Skip to Content
+Skip to Navigation Skip to Main Content Skip to Footer
+ 
+
+    How to Apply
+    Visit Furman
+
+    Give Parents Alumni News MyFurman 
+
+    About
+    Academics
+    Admissions
+    Tuition & Aid
+    Campus Life
+    Athletics
+
+    Home
+    Course Catalog
+
+  	
+Select a Catalog
+	  		 
+a
+Add to My Favorites (opens a new window)
+Print (opens a new window)
+Help (opens a new window)
+Computer Science, B.S.
+
+Return to {$returnto_text} Return to: Majors and Minors
+
+To fulfill degree requirements, students must have at least a 2.00 grade point average for all computer science courses and all other courses enrolled satisfying major requirements.
+Required Core Courses:
+
+    CSC-105 Intro to Computer Science
+    CSC-121 Intro to Computer Programming
+    CSC-122 Data Structures and Algorithms
+    CSC-223 Advanced Data Structures and Software Development
+    CSC-231 Computer Organization
+    CSC-261 Discrete Structures for Computer Science
+    CSC-461 Computational Theory
+    MTH-150 Analytic Geometry and Calculus I
+
+Three additional CSC courses numbered 300 or above, with at least two selected from Group A
+Group A
+
+    CSC-331 Computer Architecture
+    CSC-332 Data Communications and Networking
+    CSC-343 Artificial Intelligence
+    CSC-344 Computer Graphics and Image Processing
+    CSC-345 Computational Science
+    CSC-346 Operating Systems
+    CSC-348 Game Design & Development
+    CSC-353 Software Engineering
+    CSC-361 Information Structures
+    CSC-363 Programming Language Structures
+    CSC-364 Compilers
+    CSC-372 Machine Learning with Big Data
+    CSC-465 Introduction to Numerical Analysis
+
+Group B
+
+    CSC-332 Data Communications and Networking
+    CSC-341 Database Management Systems
+    CSC-342 Web-Based Application Design & Development
+    CSC-347 Human Computer Interaction
+    CSC-351 Project Management
+    CSC-352 Systems Analysis
+    CSC-353 Software Engineering
+    CSC-362 Information Security
+    CSC-372 Machine Learning with Big Data
+
+One additional course selected from the following options:
+
+    CSC-271 Morals, Law and Society in the Digital Age
+    CSC-272 Introduction to Data Mining
+    CSC-273 History of Technology and Discovery
+    MTH-120 Introduction to Statistics
+    MTH-151 Analytic Geometry and Calculus II
+    MTH-160 Vectors and Matrices
+
+Capstone Experience (one course):
+
+    CSC-475 Seminar in Computer Science
+    CSC-502 Research
+
+Return to {$returnto_text} Return to: Majors and Minors
+
+a
+Add to My Favorites (opens a new window)
+Print (opens a new window)
+Help (opens a new window)
+	
+Catalog Search	
+Search
+Advanced Search
+Catalog Home
+Addendum
+Introducing Furman
+Academic Calendar
+Undergraduate Admissions
+Fees and Expenses Policy
+Financial Aid
+Student Life
+Academic Regulations
+First Year Seminars
+Majors and Minors
+Course Descriptions
+Directory
+
+Archived Catalogs
+
+Non-Academic Administrative Policies
+
+Student Handbook
+Student Conduct Code
+Student Conduct Procedures
+
+Non-Academic Student Policies
+Student Organization Policies and Procedures
+Housing and Residence Life Policies
+My Bookmarks
+T
+Furman Logo
+3300 Poinsett Highway
+Greenville, SC 29613
+864.294.2000
+How to Apply
+Visit Campus
+
+    News
+    Employment
+    Library
+    Campus Map
+    Departments
+    University Calendar
+    Give
+    Location
+    Business and Community Visitors
+    Legal Notices
+    Contact Furman
+
+My Furman
+
+    Facebook Icon
+    Instagram Icon
+    Twitter Icon
+    LinkedIn Icon
+    YouTube Icon
+
+All catalogs © 2024 Furman University.
+Powered by Modern Campus Catalog™.
+
+
+
+Skip to Content
+Skip to Navigation Skip to Main Content Skip to Footer
+ 
+
+    How to Apply
+    Visit Furman
+
+    Give Parents Alumni News MyFurman 
+
+    About
+    Academics
+    Admissions
+    Tuition & Aid
+    Campus Life
+    Athletics
+
+    Home
+    Course Catalog
+
+  	
+Select a Catalog
+	  		 
+a
+Add to My Favorites (opens a new window)
+Print (opens a new window)
+Help (opens a new window)
+Computer Science, B.A.
+
+Return to {$returnto_text} Return to: Majors and Minors
+
+To fulfill degree requirements, students must have at least a 2.00 grade point average for all computer science courses and all other courses enrolled satisfying major requirements.
+Required core courses:
+
+    CSC-105 Intro to Computer Science
+    CSC-121 Intro to Computer Programming
+    CSC-122 Data Structures and Algorithms
+    CSC-223 Advanced Data Structures and Software Development
+    CSC-231 Computer Organization
+    CSC-261 Discrete Structures for Computer Science
+    CSC-461 Computational Theory
+    MTH-120 Introduction to Statistics or MTH-150 Analytic Geometry and Calculus I 
+
+Three additional CSC courses numbered 300 or above, with at least two selected from Group B for the Bachelor of Arts option:
+Group A
+
+    CSC-331 Computer Architecture
+    CSC-332 Data Communications and Networking
+    CSC-343 Artificial Intelligence
+    CSC-344 Computer Graphics and Image Processing
+    CSC-345 Computational Science
+    CSC-346 Operating Systems
+    CSC-348 Game Design & Development
+    CSC-353 Software Engineering
+    CSC-361 Information Structures
+    CSC-363 Programming Language Structures
+    CSC-364 Compilers
+    CSC-372 Machine Learning with Big Data
+    CSC-465 Introduction to Numerical Analysis
+
+Group B
+
+    CSC-332 Data Communications and Networking
+    CSC-341 Database Management Systems
+    CSC-342 Web-Based Application Design & Development
+    CSC-347 Human Computer Interaction
+    CSC-351 Project Management
+    CSC-352 Systems Analysis
+    CSC-353 Software Engineering
+    CSC-362 Information Security
+    CSC-372 Machine Learning with Big Data
+
+One additional course selected from the following options:
+
+    CSC-271 Morals, Law and Society in the Digital Age
+    CSC-272 Introduction to Data Mining
+    CSC-273 History of Technology and Discovery
+    MTH-120 Introduction to Statistics (BA students who elect to take MTH-120 as their required Mathematics course may not choose MTH-120 for their lower-level elective.)
+    MTH-151 Analytic Geometry and Calculus II
+    MTH-160 Vectors and Matrices
+
+Capstone Experience (one course):
+
+    CSC-475 Seminar in Computer Science
+    CSC-502 Research
+
+Return to {$returnto_text} Return to: Majors and Minors
+
+a
+Add to My Favorites (opens a new window)
+Print (opens a new window)
+Help (opens a new window)
+	
+Catalog Search	
+Search
+Advanced Search
+Catalog Home
+Addendum
+Introducing Furman
+Academic Calendar
+Undergraduate Admissions
+Fees and Expenses Policy
+Financial Aid
+Student Life
+Academic Regulations
+First Year Seminars
+Majors and Minors
+Course Descriptions
+Directory
+
+Archived Catalogs
+
+Non-Academic Administrative Policies
+
+Student Handbook
+Student Conduct Code
+Student Conduct Procedures
+
+Non-Academic Student Policies
+Student Organization Policies and Procedures
+Housing and Residence Life Policies
+My Bookmarks
+Furman Logo
+3300 Poinsett Highway
+Greenville, SC 29613
+864.294.2000
+How to Apply
+Visit Campus
+
+    News
+    Employment
+    Library
+    Campus Map
+    Departments
+    University Calendar
+    Give
+    Location
+    Business and Community Visitors
+    Legal Notices
+    Contact Furman
+
+My Furman
+
+    Facebook Icon
+    Instagram Icon
+    Twitter Icon
+    LinkedIn Icon
+    YouTube Icon
+
+All catalogs © 2024 Furman University.
+Powered by Modern Campus Catalog™.
+	
+	
+Skip to main content
+Furman Logo
+
+    Visit Furman
+    How to Apply
+    Request Information
+    Clearly Furman
+
+Computer Science Menu arror left
+Computer Science Menu
+
+    Program Overview
+    Student Experiences
+    Meet Our Faculty
+    Facilties & Resources
+    Contact
+
+Computer Science
+Program Overview
+Computer Science, B.S.
+Computer Science, B.S.
+Computer Science, B.S. Hero Image
+
+ 
+Computer Science, B.S.
+
+To fulfill degree requirements, students must have at least a 2.00 grade point average for all computer science courses and all other courses enrolled satisfying major requirements.
+Required Core Courses:
+
+    CSC-105 Intro to Computer Science
+    CSC-121 Intro to Computer Programming
+    CSC-122 Data Structures and Algorithms
+    CSC-223 Advanced Data Structures and Software Development
+    CSC-231 Computer Organization
+    CSC-261 Discrete Structures for Computer Science
+    CSC-461 Computational Theory
+    MTH-150 Analytic Geometry and Calculus I
+
+Three additional CSC courses numbered 300 or above, with at least two selected from Group A
+Group A
+
+    CSC-331 Computer Architecture
+    CSC-332 Data Communications and Networking
+    CSC-343 Artificial Intelligence
+    CSC-344 Computer Graphics and Image Processing
+    CSC-345 Computational Science
+    CSC-346 Operating Systems
+    CSC-348 Game Design & Development
+    CSC-353 Software Engineering
+    CSC-361 Information Structures
+    CSC-363 Programming Language Structures
+    CSC-364 Compilers
+    CSC-372 Machine Learning with Big Data
+    CSC-465 Introduction to Numerical Analysis
+
+Group B
+
+    CSC-332 Data Communications and Networking
+    CSC-341 Database Management Systems
+    CSC-342 Web-Based Application Design & Development
+    CSC-347 Human Computer Interaction
+    CSC-351 Project Management
+    CSC-352 Systems Analysis
+    CSC-353 Software Engineering
+    CSC-362 Information Security
+    CSC-372 Machine Learning with Big Data
+
+One additional course selected from the following options:
+
+    CSC-271 Morals, Law and Society in the Digital Age
+    CSC-272 Introduction to Data Mining
+    CSC-273 History of Technology and Discovery
+    MTH-120 Introduction to Statistics
+    MTH-151 Analytic Geometry and Calculus II
+    MTH-160 Vectors and Matrices
+
+Capstone Experience (one course):
+
+    CSC-475 Seminar in Computer Science
+    CSC-502 Research
+
+Furman Logo
+Explore Greenville
+
+3300 Poinsett Highway
+Greenville, SC 29613
+
+864.294.2000
+
+    Academic Departments
+    Accessibility
+    Athletics
+    Bookstore
+    Calendar
+    Campus Map
+    Consumer Information
+    Covid-19 Guidelines
+    Blog
+    Employment
+    Give
+    Legal Notices
+    Library
+    News
+    Offices & Services
+    Report a Bias Incident
+    University Police
+    MyFurman
+    Contact
+    Clearly Furman
+
+    THE CAMPAIGN FOR OUR THIRD CENTURY
+
+    Non-Discrimination Policy
+    Legal Notices
+    Title IX 
+
+Furman University does not unlawfully discriminate on the basis of race, color, national origin, sex, sexual orientation, gender, gender identity, pregnancy, disability, age, religion, veteran status, or any other characteristic or status protected by applicable local, state, or federal law in admission, treatment, or access to, or employment in, its programs and activities.
+
+Reviewed by Allyant for accessibility
+
+
+
+Skip to Content
+Skip to Navigation Skip to Main Content Skip to Footer
+ 
+
+    How to Apply
+    Visit Furman
+
+    Give Parents Alumni News MyFurman 
+
+    About
+    Academics
+    Admissions
+    Tuition & Aid
+    Campus Life
+    Athletics
+
+    Home
+    Course Catalog
+
+  	
+Select a Catalog
+	  		 
+a
+Add to My Favorites (opens a new window)
+Print (opens a new window)
+Help (opens a new window)
+[ARCHIVED CATALOG]	
+Data Analytics Minor
+
+Return to {$returnto_text} Return to: Majors and Minors
+Required courses:
+
+    CSC-121 Intro to Computer Programming
+    CSC-272 Introduction to Data Mining
+    MTH-245 Statistics and Data Analysis in R
+
+Electives:
+
+Two courses from the following (four credits must be from a course not labeled MTH or CSC):
+
+    BIO-222 Research and Analysis
+    BUS-230 Introduction to Data Analysis
+    BUS-337 Intermediate Business Analytics
+    CSC-341 Database Management Systems
+    CSC-343 Artificial Intelligence
+    CSC-372 Machine Learning with Big Data
+    ECN-331 Empirical Methods in Economics
+    ECN-475 Senior Seminar in Economics
+    EES-201 Geographic Information Systems
+    EES-301 Remote Sensing
+    HSC-201 Research and Evaluation in Health Sciences
+    HSC-401 Epidemiology
+    HST-322 Simulating Historic Communities in Virtu al Space
+    MTH-335 Mathematical Models and Applications
+    MTH-337 Operations Research
+    MTH-340 Probability
+    MTH-341 Mathematical Statistics
+    MTH-345 Statistical Modeling in R
+    PSY-202 Research Methods and Statistics II
+    SOC-303 Quantitative Research Seminar
+    SOC-470 Qualitative Research Seminar
+    SUS-242 Dynamic System Modeling
+
+    *Note:  Independent Study, Independent Research, and Directed Independent Study (Courses numbered 501, 502, and 504) may be used as electives with approval of the oversight committee. Likewise, directed summer research experiences (TFA-002) may be considered for use as electives with approval, along with the submission of a substantive research paper to be reviewed by the committee.
+
+Return to {$returnto_text} Return to: Majors and Minors
+
+a
+Add to My Favorites (opens a new window)
+Print (opens a new window)
+Help (opens a new window)
+	
+Catalog Search	
+Search
+Advanced Search
+Catalog Home
+Introducing Furman
+Addendum
+Student Life
+Admissions
+Expenses
+Financial Aid
+Academic Regulations
+Majors and Minors
+Course Descriptions
+First Year Seminars
+Calendar
+Directory
+Non-Academic Administrative Policies
+
+Student Handbook
+
+Graduate Studies
+Graduate Studies - Education
+
+Archived Catalogs
+
+Student Conduct Procedures
+My Bookmarks
+T
+Furman Logo
+3300 Poinsett Highway
+Greenville, SC 29613
+864.294.2000
+How to Apply
+Visit Campus
+
+    News
+    Employment
+    Library
+    Campus Map
+    Departments
+    University Calendar
+    Give
+    Location
+    Business and Community Visitors
+    Legal Notices
+    Contact Furman
+
+My Furman
+
+    Facebook Icon
+    Instagram Icon
+    Twitter Icon
+    LinkedIn Icon
+    YouTube Icon
+
+All catalogs © 2024 Furman University.
+Powered by Modern Campus Catalog™.
+
+
+Skip to main content
+Furman Logo
+
+    Visit Furman
+    How to Apply
+    Request Information
+    Clearly Furman
+
+Computer Science
+Program Overview
+Introductory Courses
+Introductory Courses
+Computer Science Menu arror left
+Computer Science Menu
+
+    Program Overview
+    Student Experiences
+    Meet Our Faculty
+    Facilties & Resources
+    Contact
+
+CSC-105: Introductory Computer Science at Furman
+
+At Furman, every student’s ability to find, manipulate, analyze and produce information using a variety of sophisticated problem-solving techniques and computing technologies is a high priority. You have several options for initiating such a study – through different themes of the course CSC-105: Introduction to Computer Science. Each section of the course applies fundamental principles of computing to a different real-world problem. This page gives a brief overview of the themes for upcoming offerings of CSC-105. For more information, consult the Furman University Catalogue or contact the Department of Computer Science at 294-2097.
+FALL 2024
+
+CSC-105-01 – Social Media (with Dr. Kevin Treu)
+MWF @ 11:30 a.m., Lab T @ 2:30
+
+This course will undertake the study of computer science in the context of implementing and effectively using social media tools. We will consider significant questions such as how does social media impact our society in general, and our lives in particular? What are the opportunities and dangers? How do we fully participate and contribute in the social media landscape? How do the computer science topics of programming and algorithmic problem-solving enable social media? (Specifically, how do we implement the social media apps that are so pervasive?) What analytical tools can be applied to social media data to uncover important facts and trends, and predict future trends?
+
+CSC-105-02 – The Internet (with Prof. Rebecca Drucker)
+MWF @ 8:30 a.m., Lab W @ 2:30
+
+One of the scariest phrases in the English language: “The Wi-Fi is down!”
+
+Web-based applications such as cloud storage, social media, and video streaming are more ubiquitous today than ever before. This course presents an introduction to computer science concepts through the lens of the Internet, as we examine its history, structure, and function. Discussion topics will include contemporary issues in computer networks such as net neutrality, censorship, and privacy concerns.
+SPRING 2024
+
+CSC-105-01 – Creativity and Computers (with Dr. Andrea Tartaro)
+TR @ 1:00 p.m., Lab T @ 2:30
+
+CSC-105-02 – Creativity and Computers (with Dr. Andrea Tartaro)
+TR @ 1:00 p.m., Lab R @ 2:30
+
+This course will introduce the field of computer science by looking at how computers can be used as tools for creative expression. What do we need to know about computer science to support creativity? Can technology inspire creativity? Can a computer itself be creative? We will look at various modes of creative expression such as images, sound, creative writing, crafts/diy and the maker movement, games and social interaction.
+Furman Logo
+Explore Greenville
+
+3300 Poinsett Highway
+Greenville, SC 29613
+
+864.294.2000
+
+    Academic Departments
+    Accessibility
+    Athletics
+    Bookstore
+    Calendar
+    Campus Map
+    Consumer Information
+    Covid-19 Guidelines
+    Blog
+    Employment
+    Give
+    Legal Notices
+    Library
+    News
+    Offices & Services
+    Report a Bias Incident
+    University Police
+    MyFurman
+    Contact
+    Clearly Furman
+
+    THE CAMPAIGN FOR OUR THIRD CENTURY
+
+    Non-Discrimination Policy
+    Legal Notices
+    Title IX 
+
+Furman University does not unlawfully discriminate on the basis of race, color, national origin, sex, sexual orientation, gender, gender identity, pregnancy, disability, age, religion, veteran status, or any other characteristic or status protected by applicable local, state, or federal law in admission, treatment, or access to, or employment in, its programs and activities.
+
+Reviewed by Allyant for accessibility
+
+
+Skip to main content
+Furman Logo
+
+    Visit Furman
+    How to Apply
+    Request Information
+    Clearly Furman
+
+Computer Science Menu arror left
+Computer Science Menu
+
+    Program Overview
+    Student Experiences
+    Meet Our Faculty
+    Facilties & Resources
+    Contact
+
+Computer Science
+Meet Our Faculty
+Meet Our Faculty
+Meet Our Faculty Hero Image
+
+Our department consists of knowledgable faculty who are ready to prepare you for your future career in computer science.
+Faculty
+Kevin Treu
+Professor and Chair
+View Profile
+Bryan Catron
+Instructor, Computer Science
+View Profile
+Rebecca Drucker
+Visiting Instructor, Computer Science
+View Profile
+Andrea Tartaro
+Associate Professor of Computer Science
+View Profile
+Chris Alvin
+Associate Professor
+View Profile
+Syed Fahad Sultan
+Assistant Professor, Computer Science
+View Profile
+Furman Logo
+Explore Greenville
+
+3300 Poinsett Highway
+Greenville, SC 29613
+
+864.294.2000
+
+    Academic Departments
+    Accessibility
+    Athletics
+    Bookstore
+    Calendar
+    Campus Map
+    Consumer Information
+    Covid-19 Guidelines
+    Blog
+    Employment
+    Give
+    Legal Notices
+    Library
+    News
+    Offices & Services
+    Report a Bias Incident
+    University Police
+    MyFurman
+    Contact
+    Clearly Furman
+
+    THE CAMPAIGN FOR OUR THIRD CENTURY
+
+    Non-Discrimination Policy
+    Legal Notices
+    Title IX 
+
+Furman University does not unlawfully discriminate on the basis of race, color, national origin, sex, sexual orientation, gender, gender identity, pregnancy, disability, age, religion, veteran status, or any other characteristic or status protected by applicable local, state, or federal law in admission, treatment, or access to, or employment in, its programs and activities.
+
+Reviewed by Allyant for accessibility
